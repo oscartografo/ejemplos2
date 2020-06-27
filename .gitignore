@@ -1,2 +1,4 @@
-*.idea
+.idea/.name
+.idea/libraries
+*idea
 Prueba_Git.iml
